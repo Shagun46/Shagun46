@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Shagun Kaushal with 7+ yr exp in IT recruitment
+- 👀 Fueling top talent for Product/E-commerce/ Fintech/ Healthcare Clients. 
+- I’m looking for: Candidates with Strong hands on experience on Problem solving, Coding, Data structure, algorithms, Design patterns, Architecture and Distributed Systems
+- Actively Hiring for: SDE I, SDE II , SDE III , Architect, Sr. Architect, EM, SEM, SDM, Director, VP
+- Domain: Backend Engineers, Mobile Application Developers, UI Engineers/ Frontend Engineers, Data Scientist, ML Engineer, Devops Engineers/ SRE, SDET
+- 📫 Reach me @ shagun@staffingcomrade.com
+- Or reach me @ https://www.linkedin.com/in/shagun-kaushal-b6051412a/
